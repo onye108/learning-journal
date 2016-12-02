@@ -1,0 +1,2 @@
+<h1>Learning Journal- Code 201 Day 3</h1>
+<p> Creating a website about me was pretty cool. I had trouble finding what to say about myself but the designing and working with CSS on my own project was a great experience. I'm still in aww with what I keep learning about the Terminal. I find myself making up reasons to use Terminal over GUI.  I did have a hard time with proper looping for the appropriate scenario. Need more work. </p>
